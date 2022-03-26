@@ -1,1 +1,1 @@
-repo - Temiraliev
+Temiraliev
